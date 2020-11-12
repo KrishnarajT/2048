@@ -1,0 +1,1 @@
+its the normal 2048 game I made with pygame again, it took me 5 days, i know a very long time, i even gave up at one point, but then at that point, i had already lost so much time that if this did not work, it didn't even make sense. So I rewrote the entire thing again. And here we are.
